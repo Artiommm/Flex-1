@@ -1,0 +1,6 @@
+main{
+    display: flex;
+    display: block;
+    display: inline-flex;
+    flex-direction: row;
+}
